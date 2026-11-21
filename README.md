@@ -1,5 +1,5 @@
 # Echo-Generation
-VR mod for Echo Generation
+VR mod for Echo Generation (Midnight Edition)
 
 
 <img width="1024" height="1536" alt="Echo Generation_ Midnight VR" src="https://github.com/user-attachments/assets/338e6fea-20b7-4ea2-b741-03ca830a3fc9" />
