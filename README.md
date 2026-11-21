@@ -2,7 +2,7 @@
 VR mod for Echo Generation
 
 
-
+<img width="1024" height="1536" alt="Echo Generation_ Midnight VR" src="https://github.com/user-attachments/assets/338e6fea-20b7-4ea2-b741-03ca830a3fc9" />
 
 
 ECHO GENERATION VR  v0.1.3 (test build) - Unity 6000.0.61f1, IL2CPP x64
